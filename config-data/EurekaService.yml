@@ -3,7 +3,7 @@ server:
 
   spring:
     application:
-      name: eurekaService
+      name: EurekaService
     cloud:
       config:
         import-check:
